@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jeremiah+David+Punzalan+%F0%9F%91%8B;Full-Stack+Web+Developer;Information+Security+Enthusiast" alt="Typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jeremiah+David+Ang+Punzalan+%F0%9F%91%8B;Full-Stack+Web+Developer;Information+Security+Enthusiast" alt="Typing banner" />
 
 **I build secure, practical web systems that make work faster and data more reliable.**
 
