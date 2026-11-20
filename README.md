@@ -113,7 +113,7 @@
 | 🌐 **Freelance Web Solutions** | 20+ full-stack sites and apps delivered to 15+ Filipino SMEs, with 98% client satisfaction | React · Next.js |
 | 📊 **DSWD XI Service Tracking System** | Digitized manual service tracking, cutting reporting time by 40% and improving data accuracy by 95% | Laravel · Next.js · Ubuntu |
 
-> 🔗 Add repo or demo links here: `[[repo link]](https://github.com/EE2506?tab=repositories)`
+> 🔗 Add repo or demo links here: `![repo link](https://github.com/EE2506?tab=repositories)`
 
 ---
 
